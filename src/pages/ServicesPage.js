@@ -4,7 +4,7 @@ import Courses from '../components/Courses';
 
 function ServicesPage() {
   return (
-    <main className="pt-20">
+    <main className="pt-0">
       <Services />
       <Courses />
     </main>
